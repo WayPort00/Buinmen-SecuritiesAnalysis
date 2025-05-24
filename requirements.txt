@@ -1,0 +1,10 @@
+requests
+typing
+pandas
+bs4
+streamlit
+yfinance
+agno.agent
+agno.models.google
+plotly.graph_objects
+google-genai
