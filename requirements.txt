@@ -8,3 +8,5 @@ agno.agent
 agno.models.google
 plotly.graph_objects
 google-genai
+google.generativeai
+kaleido
