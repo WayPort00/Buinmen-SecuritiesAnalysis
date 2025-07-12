@@ -10,3 +10,6 @@ plotly.graph_objects
 google-genai
 google.generativeai
 kaleido
+langchain
+langchain_community.chat_models.perplexity
+langchain.chains
