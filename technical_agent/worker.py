@@ -78,7 +78,7 @@ if "stock_data" in st.session_state and st.session_state["stock_data"]:
         # In each ticker-specific tab, display the chart and detailed justification
         with tabs[i + 1]:
             st.subheader(f"Analysis for {ticker}")
-            st.plotly_chart(fig)
+            # st.plotly_chart(fig)
             st.write("**Detailed Justification:**")
             st.write(result.get("justification", "No justification provided."))
 
